@@ -1,0 +1,19 @@
+{
+  "name": "comms-componeunt",
+  "version": "1.0.0",
+  "description": "### MEMBER : 이승헌M, 최훈철M, 임동섭M",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongseup/comms-componeunt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongseup/comms-componeunt/issues"
+  },
+  "homepage": "https://github.com/dongseup/comms-componeunt#readme"
+}
