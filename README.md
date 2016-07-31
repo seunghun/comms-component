@@ -4,7 +4,6 @@
 
 #### 유용한 링크
 1. MarkDown 문법
-http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/
+<http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/>
 2. Angular JS VS React
-http://han41858.tistory.com/9
-3.
+<http://han41858.tistory.com/9>
