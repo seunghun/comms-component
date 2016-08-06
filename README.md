@@ -7,5 +7,5 @@
 <http://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/>
 2. Angular JS VS React
 <http://han41858.tistory.com/9>
-3. React
+3. React 강좌(한글)
 https://velopert.com/814
