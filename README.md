@@ -1,4 +1,4 @@
-# COMMS COMPONENT
+# COMMS COMPONENT Project (CC-Project)
 
 ES6 와 react 기반으로 aria 지원하는 UI Component 입니다
 
