@@ -1,5 +1,7 @@
 # COMMS COMPONENT
 
+ES6 와 react 기반으로 aria 지원하는 UI Component 입니다
+
 ### MEMBER : 이승헌M, 최훈철M, 임동섭M
 
 #### 유용한 링크
