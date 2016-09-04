@@ -1,8 +1,8 @@
 # COMMS COMPONENT Project (CC-Project)
 
-ES6 와 react 기반으로 aria 지원하는 UI Component 입니다
+## ES6 와 react 기반으로 aria spec 을 지원하는 UI Component 입니다
 
-### MEMBER : 이승헌M, 최훈철M, 임동섭M
+###  : 이승헌M, 최훈철M, 임동섭M
 
 #### 유용한 링크
 1. MarkDown 문법
@@ -11,3 +11,5 @@ ES6 와 react 기반으로 aria 지원하는 UI Component 입니다
 <http://han41858.tistory.com/9>
 3. React 강좌(한글)
 https://velopert.com/814
+
+test
